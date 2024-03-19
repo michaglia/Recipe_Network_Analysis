@@ -10,7 +10,7 @@ Wanna get in shape with the perfect and most balanced diet you could get? This p
 
 - **Recipes Graphs**: Ever seen a graph with spaghetti and lasagna as nodes? Well, get ready to be amazed!
 - **Community Detection**: Discover which recipes are in the same culinary clique. 
-- **Ingredient Centrality**: Find out which ingredient is the ultimate culinary influencer.
+- **Recipes Centrality**: Find out which ingredient is the ultimate culinary influencer.
 
 ## Contributing
 
